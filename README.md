@@ -1,6 +1,6 @@
 # ML Algorithms from Scratch
 
-Here are some basic ML algorithms that I've implemented from scratch for my bachelor course. 
+## Here are some basic ML algorithms that I've implemented from scratch for my bachelor course. 
 
 
 
